@@ -1,2 +1,2 @@
 # teler-waf-fasthttp
-teler-waf for fasthttp
+Move to [3JoB/teler-waf](../../../teler-waf)
